@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+
+
+		<!--IlcDisableReflection>false</IlcDisableReflection>
+		<PublishAot>true</PublishAot>
+		<AotAssemblies>True</AotAssemblies>
+		<UseInterpreter>true</UseInterpreter>
+		<JsonSerializerIsReflectionEnabledByDefault>true</JsonSerializerIsReflectionEnabledByDefault>
+		<OptimizationPreference>Speed</OptimizationPreference>
+		<TrimmerSingleWarn>false</TrimmerSingleWarn>
+		<TrimmerSingleWarn>false</TrimmerSingleWarn>
+		<SelfContained>true</SelfContained>
+		<StripSymbols>true</StripSymbols-->
+
+
+
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<NoWarn>SYSLIB0006,CS8981, CS0219, CA1416, CS0414, CS0169, CS0649</NoWarn>
+		<AssemblyName>Notepad</AssemblyName>
+		<ApplicationIcon>notepad.ico</ApplicationIcon>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<OutputPath>$(SolutionDir)bin\</OutputPath>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<OutputPath>$(SolutionDir)bin\</OutputPath>
+	</PropertyGroup>
+	<ItemGroup>
+	  <Reference Include="Albion.Network">
+	    <HintPath>D:\AOR FREE\bin\Albion.Network.dll</HintPath>
+	  </Reference>
+	  <Reference Include="GameOverlay">
+	    <HintPath>D:\AOR FREE\bin\GameOverlay.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Newtonsoft.Json">
+	    <HintPath>D:\AOR FREE\bin\Newtonsoft.Json.dll</HintPath>
+	  </Reference>
+	  <Reference Include="PacketDotNet">
+	    <HintPath>D:\AOR FREE\bin\PacketDotNet.dll</HintPath>
+	  </Reference>
+	  <Reference Include="PhotonPackageParser">
+	    <HintPath>D:\AOR FREE\bin\PhotonPackageParser.dll</HintPath>
+	  </Reference>
+	  <Reference Include="PrecisionTimer.NET">
+	    <HintPath>D:\AOR FREE\bin\PrecisionTimer.NET.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Protocol16">
+	    <HintPath>D:\AOR FREE\bin\Protocol16.dll</HintPath>
+	  </Reference>
+	  <Reference Include="SharpDX">
+	    <HintPath>D:\AOR FREE\bin\SharpDX.dll</HintPath>
+	  </Reference>
+	  <Reference Include="SharpDX.Direct2D1">
+	    <HintPath>D:\AOR FREE\bin\SharpDX.Direct2D1.dll</HintPath>
+	  </Reference>
+	  <Reference Include="SharpDX.DXGI">
+	    <HintPath>D:\AOR FREE\bin\SharpDX.DXGI.dll</HintPath>
+	  </Reference>
+	  <Reference Include="SharpPcap">
+	    <HintPath>D:\AOR FREE\bin\SharpPcap.dll</HintPath>
+	  </Reference>
+	  <Reference Include="System.Drawing.Common">
+	    <HintPath>D:\AOR FREE\bin\System.Drawing.Common.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Wpf.Ui">
+	    <HintPath>D:\AOR FREE\bin\Wpf.Ui.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+
+
+
+
+</Project>
