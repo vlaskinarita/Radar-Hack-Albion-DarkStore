@@ -1,14 +1,27 @@
-Эта версия переделана на net 9.0, но содержит ~100 ошибок после конверта из 4,8(оригинал) и не может быть запущена в лоб.
+This version is converted to net 9.0, but has ~100 errors after conversion from 4.8(original) and can't be run head-on.
 
-если заходите, могу переделать ее на imGui, но не сейчас -у меня poe2. 
-цена вопроса  - 300к серебра на европейском сервере
-Выкладываю просто чтобы ктото мог доработать.
+If you come in, I can convert it to imGui, but not now - I have poe2. 
+The price of the question - 300k silver on the European server
+I'm putting it out just so someone can refine it.
 
-Оригинальный текст от автора,  репозиторий которого (был) тут: https://github.com/W4RPWISH/AlbionRadar-DEATHEYE_2pc
+Original text from the author, whose repository (was) here: https://github.com/W4RPWISH/AlbionRadar-DEATHEYE_2pc.
 
-Внимание! если вы все же надумаете тестировать готовый скомпиленный радар, обязательно проверьте его на наличие вирусов. Так как на гитхабе ходит уже пропатченная версия содержащая тряна, который состилит ваши учетные данные от игры и вы проебете все что есть на аккаунте. 
-Как мне заявили долбаящеры, которые его распространяют, в игровом API есть баг, позволяющий использовать условные "игровые куки", вытянутые с помощью трояна с вашего компа и до 10 минут зайти на последнего героя БЕЗ ввода пароля!!!!
-Обязательно проверяйте экзешник на наличие вирусов на VT.
+Attention! If you do decide to test the ready compiled radar, be sure to check it for viruses. As on githabe walks already patched version containing trjan, which will sostilite your credentials from the game and you fuck up everything that is on the account. 
+As I was told by the fuckers who are distributing it, there is a bug in the game API that allows you to use conditional “game cookies” pulled from your computer with the help of a trojan and to enter the last hero for up to 10 minutes WITHOUT entering your password!!!!.
+Be sure to check the exe for viruses on VT.
+
+don't forget to disable access to the intern for your executable.
+
+7 Steps to Block a Program in a Firewall on Windows
+1. Launch the Windows Defender Firewall's Advanced Security. ...
+2. Select Outbound Rules. ...
+3. Click New Rule. ...
+4. Select a Program. ...
+5. roceed Through the Next Pages. ...
+6. nter the Rule Name & Click Finish. ...
+7. Set Firewall Access for Services & Apps. ...
+8. Manage Alerts.
+
 
 Вот так выглядит правильная версия:
  ![image](https://github.com/user-attachments/assets/f399950a-991f-4ecf-b286-635ea9813f03)
