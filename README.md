@@ -6,6 +6,8 @@ I'm putting it out just so someone can refine it.
 
 Original text from the author, whose repository (was) here: https://github.com/W4RPWISH/AlbionRadar-DEATHEYE_2pc.
 
+video instructions for installation and configuration of radar here: https://www.youtube.com/@W4RPWISH voiced by the author - Russian language. 
+
 Attention! If you do decide to test the ready compiled radar, be sure to check it for viruses. As on githabe walks already patched version containing trjan, which will sostilite your credentials from the game and you fuck up everything that is on the account. 
 As I was told by the fuckers who are distributing it, there is a bug in the game API that allows you to use conditional “game cookies” pulled from your computer with the help of a trojan and to enter the last hero for up to 10 minutes WITHOUT entering your password!!!!.
 Be sure to check the exe for viruses on VT.
