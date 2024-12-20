@@ -4,7 +4,7 @@ discord for cht about here: https://discord.gg/rKKVqUdP3p
 
 video instructions for installation and configuration of radar here: https://www.youtube.com/@W4RPWISH voiced by the author - Russian language. 
 
-don't forget to disable access to the intern for your executable if u will plane use it.
+don't forget to disable access to your the internet for your .exe if u will plane use it(forget about).
 
 7 Steps to Block a Program in a Firewall on Windows
 1. Launch the Windows Defender Firewall's Advanced Security. ...
