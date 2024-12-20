@@ -4,17 +4,7 @@ discord for cht about here: https://discord.gg/rKKVqUdP3p
 
 video instructions for installation and configuration of radar here: https://www.youtube.com/@W4RPWISH voiced by the author - Russian language. 
 
-If you come in, I can convert it to imGui, but not now - I have poe2. 
-The price of the question - 300k silver on the European server
-I'm putting it out just so someone can refine it.
-
-Original text from the author, whose repository (was) here: https://github.com/W4RPWISH/AlbionRadar-DEATHEYE_2pc.
-
-Attention! If you do decide to test the ready compiled radar, be sure to check it for viruses. As on githabe walks already patched version containing trjan, which will sostilite your credentials from the game and you fuck up everything that is on the account. 
-As I was told by the fuckers who are distributing it, there is a bug in the game API that allows you to use conditional “game cookies” pulled from your computer with the help of a trojan and to enter the last hero for up to 10 minutes WITHOUT entering your password!!!!.
-Be sure to check the exe for viruses on VT.
-
-don't forget to disable access to the intern for your executable.
+don't forget to disable access to the intern for your executable if u will plane use it.
 
 7 Steps to Block a Program in a Firewall on Windows
 1. Launch the Windows Defender Firewall's Advanced Security. ...
@@ -25,6 +15,18 @@ don't forget to disable access to the intern for your executable.
 6. nter the Rule Name & Click Finish. ...
 7. Set Firewall Access for Services & Apps. ...
 8. Manage Alerts.
+9. 
+If you come in, I can convert it to imGui, but not now - I have poe2. 
+The price of the question - 300k silver on the European server
+I'm putting it out just so someone can refine it.
+
+Original text from the author, whose repository (was) here: https://github.com/W4RPWISH/AlbionRadar-DEATHEYE_2pc.
+
+Attention! If you do decide to test the ready compiled radar, be sure to check it for viruses. As on githabe walks already patched version containing trjan, which will sostilite your credentials from the game and you fuck up everything that is on the account. 
+As I was told by the fuckers who are distributing it, there is a bug in the game API that allows you to use conditional “game cookies” pulled from your computer with the help of a trojan and to enter the last hero for up to 10 minutes WITHOUT entering your password!!!!.
+Be sure to check the exe for viruses on VT.
+
+
 
 
 Вот так выглядит правильная версия:
