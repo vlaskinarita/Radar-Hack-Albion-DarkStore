@@ -1,6 +1,6 @@
 This version is converted to net 9.0, but has ~100 errors after conversion from 4.8(original) and can't be run head-on.
 
-discord for cht about here: https://discord.gg/rKKVqUdP3p  
+discord for chat about repeir this version and how to launch ut here: https://discord.gg/rKKVqUdP3p  
 
 video instructions for installation and configuration of radar here: https://www.youtube.com/@W4RPWISH voiced by the author - Russian language. 
 
